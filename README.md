@@ -1,4 +1,4 @@
-# Letgo LİKE BOT
+# Letgo LİKE BOT (Not finished)
 ![](https://logodix.com/logo/285634.png)
 
 
