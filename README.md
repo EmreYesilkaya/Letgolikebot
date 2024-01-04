@@ -20,8 +20,9 @@ This Python script is designed for educational purposes as part of an algorithm 
 
 ## Installation
 Install the required libraries using pip:
-```bash
+bash
 pip install pyautogui pyperclip
+
 ## How to Use
 Clone the repository to your local machine.
 Adjust the script parameters as necessary.
